@@ -1,0 +1,52 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos temporários
+[Tt]emp/
+[Vv]isual[Uu]nity/
+[Vv]isual[Ss]tudio[Ss]tate/
+
+# Arquivos de configuração
+*.Cache
+*.log
+*.vspscc
+*.vssscc
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Diretório de saída do Rider
+.idea/
+
+# Pacotes do NuGet
+packages/
+
+# Diretório de saída do Xamarin
+xamalayout.axml
+xamadependencies.xml
+
+# Arquivos de build do Mono
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Pasta de ícones
+Desktop.ini
+
+# Arquivos de reciclagem
+$RECYCLE.BIN/
+
+# Arquivos temporários do Windows
+$*.~*
+
+# Arquivos de rastreamento
+*.swp
+*.swo
+*.swn
+*.bak
+*.backup
+*.orig
